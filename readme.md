@@ -3,7 +3,7 @@
 
 
 ### Orjinal portları kullanıyorsanız ve herhangi bir script ile kurulum yapmadıysanız kullanın ...
-<pre class="notranslate"><code>wget -O sinyordes.sh https://raw.githubusercontent.com/sinyordes/cosmos-port/main/sinyordes.sh && chmod +x sinyordes.sh && ./sinyordes.sh
+<pre class="notranslate"><code>wget -O marcus.sh https://raw.githubusercontent.com/buildwith0xmarcus/cosmos-port/main/marcus.sh && chmod +x marcus.sh && ./marcus.sh
 </code></pre>
 
 Prox_App Port(Default- 26658)
